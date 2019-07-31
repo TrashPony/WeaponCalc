@@ -1,0 +1,8 @@
+{
+	"name" : "Weapon Calculator",
+	"description" : "Weapon Crit Calculator",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "0.1",
+	"author": "TrashPony"
+}
